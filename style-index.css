@@ -1,0 +1,33 @@
+body{
+  margin: 0PX;
+
+}
+.header{
+    background-color: black;
+    color: #3289cd;
+  
+}
+#teste{
+  font-size: 45px;
+  display: flex;
+  justify-content: space-between;
+
+}
+.header .container{
+   display: flex;
+   justify-content: space-between;
+}
+.navbar{
+    display: flex;
+    list-style: none;
+    width: 450px;
+    font-family: "Georgia";
+    justify-content: space-evenly;
+    font-size: 20px;
+}
+
+.h1{
+  font-family: 'Gill Sans';
+  font-size: 40px;
+
+}
